@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My College</string>
+    <string name="title">JSS Academy of Technical Education, Noida</string>
+    <string name="vision_title">VISION:</string>
+    <string name="vision">JSS Academy of Technical Education Noida aims to become an
+        Institution of excellence in imparting quality outcome based education that
+        empowers the young generation with knowledge, skills, research aptitude and
+        ethical values to solve contemporary challenging problems.</string>
+    <string name="contactUs">For more info on courses we offer, contact us:</string>
+<string name="link"><a href="www.jssaten.ac.in/">www.jssaten.ac.in</a></string>
+<string name="contactNo"><a href="+91-0120-2400104">+91-0120-2400104</a></string>
+<string name="location"><a href="JSS Academy of Technical Education, Noida, Uttar Pradesh">C-20/1, Sector-62, NOIDA (U.P)-201301</a></string>
+</resources>
