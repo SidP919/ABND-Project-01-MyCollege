@@ -108,7 +108,7 @@
                 android:text="@string/contactNo"
                 android:paddingLeft="16dp"
                 android:autoLink="phone"
-                android:textColorLink="#ff3e3e"/>
+                android:textColorLink="#ffb300" />
         </LinearLayout>
         <LinearLayout
             android:id="@+id/link_ll"
@@ -133,7 +133,7 @@
                 android:text="@string/link"
                 android:paddingLeft="16dp"
                 android:autoLink="web"
-                android:textColorLink="#0000d9"/>
+                android:textColorLink="#0090b4" />
         </LinearLayout>
         <LinearLayout
             android:id="@+id/location_ll"
@@ -158,8 +158,8 @@
                 android:layout_height="wrap_content"
                 android:text="@string/location"
                 android:paddingLeft="16dp"
-                android:autoLink="all"
-                android:textColorLink="#008700"/>
+                android:onClick="openLocation"
+                android:textColor="#008700" />
         </LinearLayout>
     </RelativeLayout>
 </ScrollView>
